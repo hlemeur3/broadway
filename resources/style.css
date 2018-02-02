@@ -15,5 +15,5 @@ ul{
 }
 
 .Home{
-  background-image: image(resources/assets/the-flatiron-building.png);
+  background-image: url(resources/assets/the-flatiron-building.png);
 }
