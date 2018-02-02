@@ -31,14 +31,14 @@ a{
   color: white;
 }
 
+.NYC{
+  background-image: url(/Users/henri/Documents/Projects/broadway/resources/assets/the-flatiron-building.png);
+  image(/Users/henri/Documents/Projects/broadway/resources/assets/the-flatiron-building.png);
+}
 
 .color{
   font-size: 18px;
   color: white;
-}
-
-.background{
-  background-image: url(/Users/henri/Documents/Projects/broadway/resources/assets/the-flatiron-building.png);
 }
 
 .footer{
@@ -46,8 +46,4 @@ a{
   color: white;
   background-color: dimgray;
   text-align:left;
-}
-
-#Home{
-  background-image: url(/Users/henri/Documents/Projects/broadway/resources/assets/the-flatiron-building.png);
 }
